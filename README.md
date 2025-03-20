@@ -37,7 +37,7 @@ CiteContext allows readers to:
 
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/CiteContext.git
+   git clone https://github.com/yashmaurya01/CiteContext.git
    ```
 
 2. Open Chrome and go to `chrome://extensions`
